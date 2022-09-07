@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/ArmanGG01/File-Karman",
+  "repository": "https://github.com/ziihiola/Fsub3",
   "logo": "https://telegra.ph/file/5e6bf2962ce5004f141cc.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "PakkPoll"
+      "value": "natannih"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
