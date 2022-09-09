@@ -1,4 +1,4 @@
-# ziihiola/Fsub3
+# Natanvibes-Fsub3
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
@@ -23,7 +23,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ziihiola/Fsub3/"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-black?style=flat&logo=heroku" width="150" height="30.00" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Natanvibes/Fsub3/"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-black?style=flat&logo=heroku" width="150" height="30.00" /></a></p>
 
 
 
@@ -91,7 +91,7 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/ziihiola/Fsub3/) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://github.com/Natanvibes/Fsub3/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
