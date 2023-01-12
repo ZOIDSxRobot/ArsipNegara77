@@ -31,7 +31,7 @@ OWNER = os.environ.get("OWNER", "Eror_404_NF")
 DB_URI = os.environ.get("DATABASE_URL", "postgresql://ilkhyyhm:vjn0q2pc9X7ESyxicOp1BDLGmUwV7J07@mouse.db.elephantsql.com/ilkhyyhm")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001602512284"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001559949436"))
 FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "-1001892236698"))
 FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001675475006"))
 
